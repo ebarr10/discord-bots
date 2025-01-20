@@ -7,9 +7,9 @@ Weather Bot
 
 
 Movie Bot (lists top 5 movie recommendations)
+![image](https://github.com/user-attachments/assets/dc42af97-b2df-4042-814b-d480f88a3ab8)
 ![image](https://github.com/user-attachments/assets/dc447852-160f-447b-b273-0e298eaed6e5)
 ![image](https://github.com/user-attachments/assets/b27848c0-f5af-4ead-ac82-4fd6d9321c96)
-![image](https://github.com/user-attachments/assets/dc42af97-b2df-4042-814b-d480f88a3ab8)
 ![image](https://github.com/user-attachments/assets/515c3dd0-ae2f-4e10-bca7-5ccd52b1f090)
 
 
